@@ -1,6 +1,6 @@
-# Expense Management System
+# Expense Management/Tracking System
 
-This project is an **Expense Management System** that combines a **Streamlit frontend application** with a **FastAPI backend server**. It allows users to efficiently track and analyze their expenses by date, category, and month.
+This project is an **Expense Management/Tracking System** that combines a **Streamlit frontend application** with a **FastAPI backend server**. It allows users to efficiently track and analyze their expenses by date, category, and month.
 
 ---
 
