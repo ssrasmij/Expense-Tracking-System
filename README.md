@@ -30,8 +30,8 @@ This project is an **Expense Management System** that combines a **Streamlit fro
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
+   git clone https://github.com/ssrasmij/Expense-Tracking-System.git
+   cd Expense-Tracking-System
    ```
 
 2. **Install dependencies:**
